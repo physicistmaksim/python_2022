@@ -1,4 +1,4 @@
-with open("/Classwork02/input.txt", "r", encoding="utf-8") as f:
+with open("input.txt", "r", encoding="utf-8") as f:
     a = list(f.readlines())
 nine_thebest = 0
 ten_thebest = 0

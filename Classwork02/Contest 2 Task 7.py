@@ -1,4 +1,4 @@
-with open("/Classwork02/input7.txt", "r", encoding="utf-8") as f:
+with open("input7.txt", "r", encoding="utf-8") as f:
     a = list(f.readlines())
 schools = []
 alr = True

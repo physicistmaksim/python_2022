@@ -1,4 +1,4 @@
-with open("/Classwork02/input8.txt", "r", encoding="utf-8") as f:
+with open("input8.txt", "r", encoding="utf-8") as f:
     a = list(f.readlines())
 people =[]
 for i in range(len(a)):

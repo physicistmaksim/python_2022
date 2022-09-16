@@ -1,4 +1,4 @@
-with open("/Classwork02/input9.txt", "r", encoding="utf-8") as f:
+with open("input9.txt", "r", encoding="utf-8") as f:
     a = list(f.readlines())
 nine = 0
 n_nine = 0
